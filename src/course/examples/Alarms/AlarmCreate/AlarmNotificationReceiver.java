@@ -20,7 +20,7 @@ public class AlarmNotificationReceiver extends BroadcastReceiver {
 	// Notification Text Elements
 	private final CharSequence tickerText = "Are You Playing Angry Birds Again!";
 	private final CharSequence contentTitle = "A Kind Reminder";
-	private final CharSequence contentText = "Get back to studying!!";
+	private final CharSequence contentText = "Vuelve a estudiar!!";
 
 	// Notification Action Elements
 	private Intent mNotificationIntent;
